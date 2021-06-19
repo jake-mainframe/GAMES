@@ -1,6 +1,6 @@
 GAMES
 
-Installs
+Installs:
 WORM
 SNAKE
 ADVENTURE
