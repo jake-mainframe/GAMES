@@ -1,0 +1,4 @@
+* Installing ALL GAMES
+* Launching Automation REXX script
+sh bash ../SOFTWARE/GAMES/clone_games.sh
+exec ../automate.rexx ../SOFTWARE/GAMES/install.txt hercules.log -d &&
